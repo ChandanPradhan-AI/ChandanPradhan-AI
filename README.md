@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>🧑‍💻  About me :</h2>
+
+
+* <h4> 💻 Aspiring Full-Stack Web Developer</h4>
+<!--
+-->
+
+
+ * <h4> 🌱 currently learning advance Frontend & Backend Development</h4>
+ <!--
+-->
+
+* <h4> 🗄 Exploring Database Management</h4>
+
+ <!--
+-->
+
+
+* <h4>☁ Diving into Cloud Development</h4>
+
