@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <h2>🧑‍💻  About me :</h2>
 
 
-* <h4> 💻 Aspiring Full-Stack Web Developer</h4>
+*  💻 Aspiring Full-Stack Web Developer
 <!--
 -->
 
 
- * <h4> 🌱 currently learning advance Frontend & Backend Development</h4>
+ *  🌱 currently learning advance Frontend & Backend Development
  <!--
 -->
 
-* <h4> 🗄 Exploring Database Management</h4>
+*  🗄 Exploring Database Management
 
  <!--
 -->
 
 
-* <h4>☁ Diving into Cloud Development</h4>
+* ☁ Diving into Cloud Development
 
